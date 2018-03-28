@@ -1,8 +1,8 @@
 {
-  "name": "HASS Configurator",
+  "name": "hass Configurator",
   "version": "0.1.1",
   "slug": "hass-configurator",
-  "description": "HASS Configurator - Browser based config file editor.",
+  "description": "hass Configurator - Browser based config file editor.",
   "url": "https://github.com/14520603/hassio-addons/tree/master/hass-configurator",
   "startup": "application",
   "webui": "http://[HOST]:[PORT:3218]",
