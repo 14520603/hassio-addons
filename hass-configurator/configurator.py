@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """
 Configurator for Home Assistant.
-https://github.com/danielperna84/hass-configurator
+https://github.com/14520603/hass-configurator
 """
 import os
 import sys
